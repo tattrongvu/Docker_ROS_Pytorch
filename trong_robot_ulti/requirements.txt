@@ -1,0 +1,6 @@
+gym==0.23.1
+gym-robotics==0.1.0
+Box2D==2.3.10
+mujoco-py==2.0.2.12
+stable-baselines3==1.5.0
+tensorboardX
